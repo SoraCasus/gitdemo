@@ -1,1 +1,1 @@
-This is a conflict 2
+This is a conflict 1
